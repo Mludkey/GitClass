@@ -5,4 +5,9 @@
 # exclude build results 
 [Dd]ebug/
 [Rr]elease/
-./Instructions.md
+
+# trying to use folder short hand and long hand 
+./Instructions.md/
+c:/Users/mludkey/OneDrive - Blue Earth County/Desktop/Demos/Test/Instructions.md/
+
+

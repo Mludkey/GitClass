@@ -1,18 +1,32 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Git Training</title>
-    <ul>
-        <li> git init --makes new repo</li>
-        <li>git add . or *.file --adds files to staging</li>
-        <li> git commit -m "comment" --commits staged files to repo the -m allows for comments(good practice)</li>
-        
-</ul>
+    <link rel="stylesheet" href="styles.css">
+
+
+
 </head>
-<body>
-   <Header>This is the Git Training Website</Header> 
-</body>
+
+    <body>
+        <Header id = "Header">This is the Git Training Website</Header>
+        <ul>
+            <li> git init --makes new repo</li>
+            <li>git add . or *.file --adds files to staging</li>
+            <li> git commit -m "comment" --commits staged files to repo the -m allows for comments(good practice)</li>
+            <li> git status -- gives status of edits, commits, adds, staging </li>
+            <li>git log -- shows one page of commits at a time </li>
+                <ul>
+                    <li>q can quit out of log</li>
+                    <li> ctrl c (force quit) </li>
+                    <li> git log --stat (gives +- for edits or changes as a visual)</li>
+                </ul>
+            <li>Stash --used if not ready to commit, but also do not want to lose edits</li>
+        </ul> 
+    </body>
+
 </html>

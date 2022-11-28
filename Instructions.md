@@ -9,7 +9,7 @@ Exercise 2 Basic Git Commands
 2. Create a .gitignore file that prevents Git from including
 	this instructions file. Add any other exclusions you wish.
 
- test 
+test to see if it is ignored 
 ## Part 2. Adding some content
 
 3. Add a ReadMe.md document to the repository and enter some content

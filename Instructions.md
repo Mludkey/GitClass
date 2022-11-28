@@ -8,7 +8,7 @@ Exercise 2 Basic Git Commands
 
 2. Create a .gitignore file that prevents Git from including
 	this instructions file. Add any other exclusions you wish.
-
+ --test to see if status finds this entry 
 
 ## Part 2. Adding some content
 
